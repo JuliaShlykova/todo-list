@@ -41,7 +41,7 @@ svg[name="svg-edit"]:hover{
 html{
     background-image: url('pictures/background.jpg');
     background-attachment: fixed;
-    background-size: conver;
+    background-size: cover;
     width: 100%;
     display: flex;
     justify-content: center;
